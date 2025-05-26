@@ -1,0 +1,41 @@
+Aura Models Template – License Agreement
+Overview
+This License Agreement ("Agreement") governs the use of the Aura Models HTML template ("Template") purchased from the seller. By purchasing and using the Template, you ("Licensee") agree to be bound by the terms of this Agreement.
+
+Grant of License
+The seller grants the Licensee a non-exclusive, non-transferable, worldwide license to use the Template for personal or commercial purposes, subject to the terms and restrictions outlined below.
+
+Permitted Uses
+The Licensee is permitted to:
+
+Use the Template to create one or more websites for personal use (e.g., portfolio, personal blog).
+
+Use the Template to create one or more websites for commercial use (e.g., business website, client projects).
+
+Modify the Template’s code, images, and content to suit personal or commercial needs.
+
+Use the Template in projects for clients, provided each project results in a distinct website.
+
+Restrictions
+The Licensee is prohibited from:
+
+Reselling, redistributing, or sublicensing the Template, in whole or in part, as a standalone product or template.
+
+Sharing or distributing the Template’s source files (HTML, CSS, JavaScript, images) with third parties, except as part of a finished website.
+
+Using the Template in any manner that competes with the seller’s business, such as offering it as a template for sale.
+
+Including the Template in products or services where the Template itself is the primary value (e.g., template marketplaces, theme bundles).
+
+Termination
+This license is effective until terminated. The seller may terminate the license if the Licensee breaches any terms of this Agreement. Upon termination, the Licensee must cease using the Template and destroy all copies of it.
+
+No Warranty
+The Template is provided "as is" without warranties of any kind, express or implied, including fitness for a particular purpose. The seller is not liable for any damages arising from the use of the Template.
+
+Contact
+For questions about this Agreement, contact the seller at:
+📧 info@auramodels.com
+
+Effective Date
+This Agreement is effective as of May 23, 2025.
