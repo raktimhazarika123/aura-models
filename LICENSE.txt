@@ -1,41 +1,47 @@
-Aura Models Template – License Agreement
-Overview
-This License Agreement ("Agreement") governs the use of the Aura Models HTML template ("Template") purchased from the seller. By purchasing and using the Template, you ("Licensee") agree to be bound by the terms of this Agreement.
+Aura Models HTML Template - License Agreement
 
-Grant of License
-The seller grants the Licensee a non-exclusive, non-transferable, worldwide license to use the Template for personal or commercial purposes, subject to the terms and restrictions outlined below.
+Thank you for using the Aura Models HTML template.
 
-Permitted Uses
-The Licensee is permitted to:
+This license governs your use of the Aura Models template and outlines your rights and restrictions.
 
-Use the Template to create one or more websites for personal use (e.g., portfolio, personal blog).
+-------------------------------
+PERMITTED USES
+-------------------------------
 
-Use the Template to create one or more websites for commercial use (e.g., business website, client projects).
+You MAY:
+- Use the template for personal projects (e.g., your portfolio, resume, or landing page).
+- Use the template for commercial projects (e.g., client websites).
+- Modify or customize the template to suit your needs.
 
-Modify the Template’s code, images, and content to suit personal or commercial needs.
+-------------------------------
+PROHIBITED USES
+-------------------------------
 
-Use the Template in projects for clients, provided each project results in a distinct website.
+You MAY NOT:
+- Resell, sublicense, or redistribute the template (modified or unmodified).
+- Upload the template to any marketplace or template-sharing website.
+- Claim authorship or exclusive rights to the design or source code.
 
-Restrictions
-The Licensee is prohibited from:
+-------------------------------
+CREDITS AND ATTRIBUTION
+-------------------------------
 
-Reselling, redistributing, or sublicensing the Template, in whole or in part, as a standalone product or template.
+Attribution is appreciated but not required.
 
-Sharing or distributing the Template’s source files (HTML, CSS, JavaScript, images) with third parties, except as part of a finished website.
+-------------------------------
+DISCLAIMER
+-------------------------------
 
-Using the Template in any manner that competes with the seller’s business, such as offering it as a template for sale.
+This template is provided "as is" without warranty of any kind. The author is not liable for any damages arising from its use.
 
-Including the Template in products or services where the Template itself is the primary value (e.g., template marketplaces, theme bundles).
+-------------------------------
+CONTACT & SUPPORT
+-------------------------------
 
-Termination
-This license is effective until terminated. The seller may terminate the license if the Licensee breaches any terms of this Agreement. Upon termination, the Licensee must cease using the Template and destroy all copies of it.
+For questions or support, please contact: info@auramodels.com
 
-No Warranty
-The Template is provided "as is" without warranties of any kind, express or implied, including fitness for a particular purpose. The seller is not liable for any damages arising from the use of the Template.
+-------------------------------
+COPYRIGHT NOTICE
+-------------------------------
 
-Contact
-For questions about this Agreement, contact the seller at:
-📧 info@auramodels.com
-
-Effective Date
-This Agreement is effective as of May 23, 2025.
+© 2025 Aura Models. All rights reserved.
