@@ -1,1 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aura Models Template Documentation</title>
+    <meta name="description" content="Documentation for the Aura Models HTML template, including setup and customization instructions.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Great+Vibes&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <style>
+        /* Reuse styles from index.html */
+        *, *::before, *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
+        :root {
+            --color-peach: #ffcc99;
+            --color-cream: #fffaf0;
+            --color-gray: #d3d3d3;
+            --color-gold: #d4a017;
+            --color-dark: #1f1f1f;
+            --font-primary: 'Roboto', sans-serif;
+            --font-display: 'Cormorant Garamond', serif;
+            --font-script: 'Great Vibes', cursive;
+        }
+
+        body {
+            font-family: var(--font-primary);
+            color: var(--color-dark);
+            background-color: var(--color-cream);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        h1, h2 {
+            font-family: var(--font-display);
+            font-weight: 500;
+        }
+
+        h1 {
+            font-family: var(--font-script);
+            font-size: 3rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            color: var(--color-dark);
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin: 2rem 0 1rem;
+            color: var(--color-gold);
+        }
+
+        p, li {
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        ul {
+            list-style: disc;
+            margin-left: 20px;
+            margin-bottom: 1rem;
+        }
+
+        a {
+            color: var(--color-gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        a:hover, a:focus {
+            color: var(--color-dark);
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            background-color: var(--color-peach);
+            margin-bottom: 40px;
+        }
+
+        .header-logo {
+            font-family: var(--font-script);
+            font-size: 2.5rem;
+            color: var(--color-dark);
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        code {
+            background-color: var(--color-gray);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-logo">Aura Models Template</div>
+    </header>
+    <div class="container">
+        <h1>Documentation</h1>
+
+        <div class="section">
+            <h2>Introduction</h2>
+            <p>Welcome to the Aura Models HTML template, a premium one-page website designed for fashion and influencer agencies. This documentation guides you through setup, customization, and deployment.</p>
+        </div>
+
+        <div class="section">
+            <h2>Folder Structure</h2>
+            <ul>
+                <li><code>index.html</code>: The main template file.</li>
+                <li><code>docs.html</code>: This documentation file.</li>
+                <li><code>license.html</code>: License agreement file.</li>
+                <li><code>styles.css</code>: External CSS file for styling.</li>
+                <li><code>scripts.js</code>: External JavaScript file for interactivity.</li>
+                <li><code>images/</code>: Contains all images (e.g., <code>a9.webp</code>, <code>a6.webp</code>). Replace with your own images (WebP recommended).</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Getting Started</h2>
+            <p>1. Extract the template package.</p>
+            <p>2. Open <code>index.html</code> in a browser to preview.</p>
+            <p>3. Edit files using a code editor (e.g., VS Code).</p>
+            <p>4. Host on a web server (e.g., Netlify, GitHub Pages) for online access.</p>
+        </div>
+
+        <div class="section">
+            <h2>Customization</h2>
+            <p>Customize the template by editing <code>index.html</code>, <code>styles.css</code>, and <code>scripts.js</code>:</p>
+            <ul>
+                <li><strong>Brand Name</strong>: Replace "Aura Models" in the logo, hero, and footer in <code>index.html</code> (search for <code>Aura Models</code>).</li>
+                <li><strong>Images</strong>: Replace files in <code>images/</code> with your own, keeping the same names (e.g., <code>a9.webp</code>).</li>
+                <li><strong>Social Links</strong>: Update URLs in the <code>settings</code> object in <code>scripts.js</code> (e.g., <code>https://facebook.com</code>).</li>
+                <li><strong>Contact Details</strong>: Update email, phone, and address in the contact section of <code>index.html</code>.</li>
+                <li><strong>Styles</strong>: Modify <code>styles.css</code> for custom colors, fonts, or layouts.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Form Setup</h2>
+            <p>The contact form uses a mock submission for demo purposes. For production:</p>
+            <ul>
+                <li>Sign up at <a href="https://formspree.io">Formspree</a> and get a form ID.</li>
+                <li>Replace the form <code>action</code> in <code>index.html</code> with your Formspree URL (e.g., <code>https://formspree.io/f/your-form-id</code>).</li>
+                <li>Alternatively, set up a custom backend (e.g., Node.js, PHP) and update the form <code>action</code>.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Troubleshooting</h2>
+            <ul>
+                <li><strong>Images not loading</strong>: Ensure images are in the <code>images/</code> folder with correct names.</li>
+                <li><strong>Form not working</strong>: Verify the Formspree URL or backend setup.</li>
+                <li><strong>Responsive issues</strong>: Test in modern browsers (Chrome, Firefox, Safari, Edge).</li>
+                <li><strong>Scripts not working</strong>: Ensure <code>scripts.js</code> is in the root folder and linked correctly in <code>index.html</code>.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>License</h2>
+            <p>The Aura Models template is licensed for personal or commercial use, with restrictions on resale or redistribution. See <a href="license.html">license.html</a> or  <a href="LICENSE.txt">LICENSE.txt</a> for the full License Agreement.</p>
+        </div>
+    </div>
+</body>
+</html>
